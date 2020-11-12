@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1605140187827" clover="3.2.0">
+  <project timestamp="1605140187827" name="All files">
+    <metrics statements="14" coveredstatements="14" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4" elements="20" coveredelements="20" complexity="0" loc="14" ncloc="14" packages="1" files="4" classes="4"/>
+    <file name="cloneArray.js" path="C:\Users\Prashant\Documents\Network Based Application Development\Week10\jest-test\cloneArray.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="parenthesisValidator.js" path="C:\Users\Prashant\Documents\Network Based Application Development\Week10\jest-test\parenthesisValidator.js">
+      <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="9" count="2" type="stmt"/>
+      <line num="10" count="13" type="cond" truecount="2" falsecount="0"/>
+      <line num="11" count="4" type="stmt"/>
+      <line num="13" count="9" type="stmt"/>
+      <line num="16" count="2" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+    </file>
+    <file name="substract.js" path="C:\Users\Prashant\Documents\Network Based Application Development\Week10\jest-test\substract.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="sum.js" path="C:\Users\Prashant\Documents\Network Based Application Development\Week10\jest-test\sum.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
